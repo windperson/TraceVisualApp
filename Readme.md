@@ -12,9 +12,9 @@ This is a simple Xamarin Forms using Material Design Visual demo:
 
 1. Clone Xamarin.Forms github 3.6 branch source: <https://github.com/xamarin/Xamarin.Forms/tree/3.6.0> right align as this git repo:
 
------ [This git repo]
- |
- ---- [Xamarin.Forms v3.6 branch source]
+----- [This git repo]  
+ |  
+ ---- [Xamarin.Forms v3.6 branch source]  
 
 2.  Using PowerShell command to build debuggable Xamarin.Forms nuget:   
    ```
