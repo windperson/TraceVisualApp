@@ -8,12 +8,12 @@ This is a simple Xamarin Forms using Material Design Visual demo:
 
 ## To run this example with debuggable Xamarin Forms nuget
 
-0.  Besure to install Visual Studio 2017 with Xamarin workload, and Android SDK Platform 24.
+0.  Besure to install Visual Studio 2017 with Xamarin workload, and Android SDK Platform 24 (Android 7.0).
 
 1. Clone Xamarin.Forms github 3.6 branch source: <https://github.com/xamarin/Xamarin.Forms/tree/3.6.0> right align as this git repo:
 
 ----- [This git repo]  
- |  
+     |  
  ---- [Xamarin.Forms v3.6 branch source]  
 
 2.  Using PowerShell command to build debuggable Xamarin.Forms nuget:   
